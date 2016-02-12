@@ -1,4 +1,4 @@
 slurm_memhogs
 =============
 
-Find SLURM jobs using much less memory than allocated
+Find SLURM jobs using much less memory than allocated. Email users.
